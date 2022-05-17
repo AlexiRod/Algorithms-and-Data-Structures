@@ -1,0 +1,17 @@
+﻿  Comprassions_v11.cpp
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(24,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(53,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(123,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(126,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(131,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(150,31): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(169,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(189,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(218,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(273,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(297,22): warning C4018: >: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(301,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(349,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(442,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_7\Comprassions_v11\Comprassions_v11.cpp(475,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Comprassions_v11.vcxproj -> D:\HSE\Myself\Kroco Business\Siaod_7\Debug\Comprassions_v11.exe

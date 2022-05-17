@@ -1,0 +1,36 @@
+﻿  Trees_v2.cpp
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(39,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(546,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(602,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(672,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(748,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(460,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(455): message : во время компиляции функции-члена класс шаблон "void AVLTree<Abonement>::PrintNodes(std::vector<Node<T> *,std::allocator<Node<T> *>>,int,int)"
+          with
+          [
+              T=Abonement
+          ]
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(319): message : выполняется компиляция ссылки на экземпляр шаблон функции "void AVLTree<Abonement>::PrintNodes(std::vector<Node<T> *,std::allocator<Node<T> *>>,int,int)"
+          with
+          [
+              T=Abonement
+          ]
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(670): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "AVLTree<Abonement>"
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(462,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(467,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(236,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(231): message : во время компиляции функции-члена класс шаблон "void BinaryTree<Abonement>::PrintNodes(std::vector<Node<T> *,std::allocator<Node<T> *>>,int,int)"
+          with
+          [
+              T=Abonement
+          ]
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(216): message : выполняется компиляция ссылки на экземпляр шаблон функции "void BinaryTree<Abonement>::PrintNodes(std::vector<Node<T> *,std::allocator<Node<T> *>>,int,int)"
+          with
+          [
+              T=Abonement
+          ]
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(600): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BinaryTree<Abonement>"
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(238,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\Siaod_4\Trees_v2\Trees_v2.cpp(243,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Trees_v2.vcxproj -> D:\HSE\Myself\Kroco Business\Siaod_4\Debug\Trees_v2.exe

@@ -1,0 +1,12 @@
+﻿  MyHashTable_v14.cpp
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(30,33): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(158,14): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(233,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(248,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(259,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(278,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(303,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(331,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(372,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\MyHashTable_v14\MyHashTable_v14.cpp(505,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyHashTable_v14.vcxproj -> D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_2\Debug\MyHashTable_v14.exe

@@ -1,0 +1,33 @@
+﻿  BinaryTree.cpp
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(38,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(751,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(741): message : во время компиляции функции-члена класс шаблон "void RBTree<Product>::PrintTree(void)"
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(968): message : выполняется компиляция ссылки на экземпляр шаблон функции "void RBTree<Product>::PrintTree(void)"
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(851): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<Product>"
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(340,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(330): message : во время компиляции функции-члена класс шаблон "void BTree<Product>::PrintTree(void)"
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(893): message : выполняется компиляция ссылки на экземпляр шаблон функции "void BTree<Product>::PrintTree(void)"
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(827): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BTree<Product>"
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(603,39): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(597): message : во время компиляции функции-члена класс шаблон "void RBTree<Product>::PrintLevel(std::vector<Node<T> *,std::allocator<Node<T> *>>,int,int,int)"
+          with
+          [
+              T=Product
+          ]
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(751): message : выполняется компиляция ссылки на экземпляр шаблон функции "void RBTree<Product>::PrintLevel(std::vector<Node<T> *,std::allocator<Node<T> *>>,int,int,int)"
+          with
+          [
+              T=Product
+          ]
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(169,39): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(163): message : во время компиляции функции-члена класс шаблон "void BTree<Product>::PrintLevel(std::vector<BNode<T> *,std::allocator<BNode<T> *>>,int,int,int)"
+          with
+          [
+              T=Product
+          ]
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\BinaryTree\BinaryTree.cpp(340): message : выполняется компиляция ссылки на экземпляр шаблон функции "void BTree<Product>::PrintLevel(std::vector<BNode<T> *,std::allocator<BNode<T> *>>,int,int,int)"
+          with
+          [
+              T=Product
+          ]
+  BinaryTree.vcxproj -> D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_4\x64\Debug\BinaryTree.exe

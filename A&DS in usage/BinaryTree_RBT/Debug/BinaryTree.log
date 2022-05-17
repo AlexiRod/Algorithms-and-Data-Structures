@@ -1,0 +1,36 @@
+﻿  BinaryTree.cpp
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(33,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(72,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(772,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(762): message : во время компиляции функции-члена класс шаблон "void Tree<Product>::PrintTree(void)"
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(876): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<Product>::PrintTree(void)"
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(871): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<Product>"
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(361,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(351): message : во время компиляции функции-члена класс шаблон "void BTree<Product>::PrintTree(void)"
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(801): message : выполняется компиляция ссылки на экземпляр шаблон функции "void BTree<Product>::PrintTree(void)"
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(796): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BTree<Product>"
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(624,39): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(618): message : во время компиляции функции-члена класс шаблон "void Tree<Product>::PrintLevel(std::vector<Node<T> *,std::allocator<Node<T> *>>,int,int,int)"
+          with
+          [
+              T=Product
+          ]
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(772): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<Product>::PrintLevel(std::vector<Node<T> *,std::allocator<Node<T> *>>,int,int,int)"
+          with
+          [
+              T=Product
+          ]
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(632,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(161,39): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(155): message : во время компиляции функции-члена класс шаблон "void BTree<Product>::PrintLevel(std::vector<BNode<T> *,std::allocator<BNode<T> *>>,int,int,int)"
+          with
+          [
+              T=Product
+          ]
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(361): message : выполняется компиляция ссылки на экземпляр шаблон функции "void BTree<Product>::PrintLevel(std::vector<BNode<T> *,std::allocator<BNode<T> *>>,int,int,int)"
+          with
+          [
+              T=Product
+          ]
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\BinaryTree\BinaryTree.cpp(169,19): warning C4018: <: несоответствие типов со знаком и без знака
+  BinaryTree.vcxproj -> D:\HSE\Ну тупа йа\Kroco Business\СИАОД\BinaryTree\Debug\BinaryTree.exe

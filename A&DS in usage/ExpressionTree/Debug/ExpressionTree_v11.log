@@ -1,0 +1,5 @@
+﻿  ExpressionTree_v11.cpp
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\ExpressionTree\ExpressionTree_v11\ExpressionTree_v11.cpp(37,14): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\ExpressionTree\ExpressionTree_v11\ExpressionTree_v11.cpp(42,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Ну тупа йа\Kroco Business\СИАОД\ExpressionTree\ExpressionTree_v11\ExpressionTree_v11.cpp(55,31): warning C4018: <: несоответствие типов со знаком и без знака
+  ExpressionTree_v11.vcxproj -> D:\HSE\Ну тупа йа\Kroco Business\СИАОД\ExpressionTree\Debug\ExpressionTree_v11.exe

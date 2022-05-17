@@ -1,0 +1,9 @@
+4 mr.a st.a
+7 ms.b av.b
+5 mr.c st.c
+3 ms.d st.d
+8 mr.e av.e
+2 ms.f st.f
+1 ms.g av.g
+6 mr.h st.h
+9 ms.j av.j

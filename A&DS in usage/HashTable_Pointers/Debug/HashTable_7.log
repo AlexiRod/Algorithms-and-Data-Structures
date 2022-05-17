@@ -1,0 +1,9 @@
+﻿  HashTable_7.cpp
+D:\ВШЭ\Ну тупа йа\Kroco Business\СИАОД\SIAOD_p2\HashTable_7\HashTable_7.cpp(25,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ВШЭ\Ну тупа йа\Kroco Business\СИАОД\SIAOD_p2\HashTable_7\HashTable_7.cpp(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ВШЭ\Ну тупа йа\Kroco Business\СИАОД\SIAOD_p2\HashTable_7\HashTable_7.cpp(164,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ВШЭ\Ну тупа йа\Kroco Business\СИАОД\SIAOD_p2\HashTable_7\HashTable_7.cpp(203,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ВШЭ\Ну тупа йа\Kroco Business\СИАОД\SIAOD_p2\HashTable_7\HashTable_7.cpp(423,25): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\ВШЭ\Ну тупа йа\Kroco Business\СИАОД\SIAOD_p2\HashTable_7\HashTable_7.cpp(447,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ВШЭ\Ну тупа йа\Kroco Business\СИАОД\SIAOD_p2\HashTable_7\HashTable_7.cpp(576,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HashTable_7.vcxproj -> D:\ВШЭ\Ну тупа йа\Kroco Business\СИАОД\SIAOD_p2\Debug\HashTable_7.exe

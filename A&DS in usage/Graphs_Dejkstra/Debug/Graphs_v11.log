@@ -1,0 +1,14 @@
+﻿  Graphs_v11.cpp
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_5\Graphs_v11\Graphs_v11.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_5\Graphs_v11\Graphs_v11.cpp(32): message : во время компиляции функции-члена класс шаблон "void Graph<int>::AddNode(T)"
+          with
+          [
+              T=int
+          ]
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_5\Graphs_v11\Graphs_v11.cpp(219): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::AddNode(T)"
+          with
+          [
+              T=int
+          ]
+D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_5\Graphs_v11\Graphs_v11.cpp(219): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  Graphs_v11.vcxproj -> D:\HSE\Myself\Kroco Business\СИАОД\Старое\Лиза\Siaod_5\Debug\Graphs_v11.exe
